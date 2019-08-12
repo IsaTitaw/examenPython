@@ -9,7 +9,7 @@ def verification(tabNum):
         sommePair = 0 #initialisation des différentes variables me servant à faire les opérations
         sommeImpair = 0
 
-        for j in(elementPair):#Je parcours le nb avec les chiffres "pairs" que je * par 3
+        for j in(elementPair):#Je parcours le nb avec les chiffres "pairs" que je multiplie par 3.
             multi = int(j)*3
             sommePair = multi + sommePair #je fais la somme des résultats au fur et à mesure.
                                             #En fin de boucle j'ai la somme des chiffres pairs qui ont été * par 3
