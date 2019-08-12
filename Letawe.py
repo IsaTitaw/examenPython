@@ -1,4 +1,4 @@
-#Vérification des numéros IBSN présent dans le tabNum
+#Vérification des numéros ISBN présent dans le tabNum
 def verification(tabNum):
     for element in tabNum:#On parcourt le tableau et on traite chaque élément.
         elementMin = element[0:12]#Je retire le dernier chiffre qui est la clef de contrôle
