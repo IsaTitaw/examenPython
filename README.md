@@ -6,3 +6,7 @@ Ensuite faire un affichage en fonction d'un tri
 Utilisation des fonctions obligatoire
 Interdit d'utiliser "sort"
 Le but de l'amélioration est de ne faire qu'une seule fonction au lieu de 3 pour les différents tris. 
+
+
+J'ai ajouté aussi un résumé des commandes Linux pour rappel bon exercice pour moi de retravailler aussi là=dessus. 
+
